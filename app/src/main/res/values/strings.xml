@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">udacity2</string>
+    <string name="name">Fatih Emre</string>
+    <string name="yellow_star">Yellow_star</string>
+
+    <string name="bio">Hi my name is Fatih.
+        \n\nI love fish
+        \n\nThe kind that alive and swims around in a aquarium or river, or a lake, and definitely the ocean.
+        \nFun fact is that I have several aquariums and also a river.
+        \n\n I like eating fish too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+        \nAnd sometimes ı even go fishing
+        \nAnd even less sometimes ı actually catch something.
+        \nI\'ll be happy ask someone else about fishing, thought.\n\n
+    \n\nI love fish
+        \n\nThe kind that alive and swims around in a aquarium or river, or a lake, and definitely the ocean.
+        \nFun fact is that I have several aquariums and also a river.
+        \n\n I like eating fish too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+        \nAnd sometimes ı even go fishing
+        \nAnd even less sometimes ı actually catch something.
+        \nI\'ll be happy ask someone else about fishing, thought.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
